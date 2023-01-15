@@ -1,0 +1,1 @@
+select * from employee where employee salary> 1500
